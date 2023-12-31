@@ -18,7 +18,7 @@ We are a team of visionaries, engineers, designers, and dreamers united by our f
 ## Our Projects
 
 Check out some of our ongoing and past projects:
-- [BrainwaveAi](thebrainwaveai.com): An Ai Sales analytics assistant
+- [BrainwaveAi](https://thebrainwaveai.com): An Ai Sales analytics assistant
 - House of Leaders: School point tracking application
 
 ## Join Us
