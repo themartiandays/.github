@@ -1,6 +1,6 @@
 # Welcome to Martian Days 🚀
 
-![Martian Days Logo](https://raw.githubusercontent.com/themartiandays/.github/main/logo_full_demo.png)
+![Martian Days Logo](https://raw.githubusercontent.com/themartiandays/.github/main/Logo_full_1.png)
 
 At Martian Days, we're on a mission to build the future. Our passion drives us to create innovative, cutting-edge technology that pushes the boundaries of what's possible. From futuristic gadgets to revolutionary software, we strive to craft solutions that feel like they belong in a time yet to come.
 
