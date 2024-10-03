@@ -1,4 +1,4 @@
-# Welcome to Martian Days 🚀
+# Welcome to Martian Days 
 
 ![Martian Days Logo](https://raw.githubusercontent.com/themartiandays/.github/main/Logo_full_1.png)
 
